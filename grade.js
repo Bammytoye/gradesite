@@ -72,17 +72,17 @@
 // }
 // }
 
-var gradeA = new Audio("/grade site/audio/Jesus-Jesus-Jesus-comedy-sound-effect-1.mp3")
-var gradeD = new Audio("/grade site/audio/you-think-say-you-dey-wise.mp3")
-var gradeNone = new Audio("/grade site/audio/They-av-left-you-behind.mp3")
-var gradeE = new Audio("/grade site/audio/Oh-no-no-no-laugh-music.mp3")
-var gradeFF = new Audio("/grade site/audio/yee-yee-yeeee-sound-effect.mp3")
-var gradeF = new Audio("/grade site/audio/Slap (Sound Effect) (128 kbps).mp3")
-var gradeC = new Audio("/grade site/audio/Something-About-To-Happen.mp3")
-var gradeB = new Audio("/grade site/audio/Will-You-Keep-Quiet.mp3")
-var gradeAAA = new Audio("/grade site/audio/Why-Are-You-Running.mp3")
-var gradeAA = new Audio("/grade site/audio/There-Is-God-O.mp3")
-var gradeInvalid = new Audio("/grade site/audio/Wrong-Answer.mp3")
+var gradeA = new Audio("audio/Jesus-Jesus-Jesus-comedy-sound-effect-1.mp3")
+var gradeD = new Audio("audio/you-think-say-you-dey-wise.mp3")
+var gradeNone = new Audio("audio/They-av-left-you-behind.mp3")
+var gradeE = new Audio("audio/Oh-no-no-no-laugh-music.mp3")
+var gradeFF = new Audio("audio/yee-yee-yeeee-sound-effect.mp3")
+var gradeF = new Audio("audio/Slap (Sound Effect) (128 kbps).mp3")
+var gradeC = new Audio("audio/Something-About-To-Happen.mp3")
+var gradeB = new Audio("audio/Will-You-Keep-Quiet.mp3")
+var gradeAAA = new Audio("audio/Why-Are-You-Running.mp3")
+var gradeAA = new Audio("audio/There-Is-God-O.mp3")
+var gradeInvalid = new Audio("audio/Wrong-Answer.mp3")
 
 function playMusic () {
    gradeA.play()
